@@ -1,6 +1,7 @@
 asgiref==3.7.2
 certifi==2024.2.2
-Django==5.0.2
+Django>=5.0
+
 django-six==1.0.5
 pillow==10.2.0
 pycryptodome==3.20.0
